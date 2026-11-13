@@ -1,0 +1,47 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Visual Studio user files & cache
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Test results
+[Tt]est[Rr]esult*/
+*.trx
+
+# NuGet
+*.nupkg
+*.snupkg
+project.lock.json
+project.assets.json
+
+# Logs
+Logs/
+*.log
+
+# ReSharper / Rider
+_ReSharper*/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Publish output
+publish/
+*.Publish.xml
+
+# SQLite database files
+*.db
+*.sqlite
+*.sqlite3
+*.db-shm
+*.db-wal
